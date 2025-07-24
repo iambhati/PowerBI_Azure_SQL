@@ -1,4 +1,4 @@
-##🧠 Problem Statement
+## 🧠 Problem Statement
 Manual reporting using Excel was time-consuming and error-prone. The objective was to build a dynamic reporting system that could scale, refresh automatically, and present actionable insights from cloud-hosted data.
 
 ##🔧 Tools & Technologies Used
